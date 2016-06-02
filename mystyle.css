@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+body {
+	background-color: blue;
+	color:black;
+
+}
+
+p { 
+    text-align: center;
+    font-size: 14px
+
+ }
+
+ a {
+ 	color: black;
+ }
